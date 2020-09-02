@@ -3,11 +3,11 @@ One of my modules for Year 1 is **Fundamentals Of Programming (aka FOP)** where 
 
 ## Problem Statement
 
-You are encouraged to design your own text-based UI as a teaching aid for students. The application will display 5 quiz questions one by one, allowing user to enter his/her answers and submit the quiz. It then display the results of the quiz. 
+You are encouraged to design your own **text-based UI** as a teaching aid for students. The application will display 5 quiz questions one by one, allowing user to enter his/her answers and submit the quiz. It then display the results of the quiz. 
 
 ### Program Requirements
 
-Using the **object oriented concept** learnt in the module, the application should consist of **2 classes**...
+Using the **Object Oriented Programming (aka OOP)** concept learnt in the module, the application should consist of **2 classes**...
 
 - **MCQ class to represent a question** and **by adding a constructor, it should have the variables to store the question, four choices, user's answer and the correct answer for the question**.
 
@@ -33,5 +33,5 @@ Using the **object oriented concept** learnt in the module, the application shou
 
 1. Download the zipped files and open them in ```Visual Studio Code```.
 
-2. Click on `Run > Run without Debugging` and interact with the quiz in the terrminal.
+2. Click on `Run > Run without Debugging` and interact with the quiz in the terminal.
 
