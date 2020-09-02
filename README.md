@@ -31,7 +31,7 @@ Using the **object oriented concept** learnt in the module, the application shou
 
 ### Project Setup
 
-1. Download the zipped files and open them in ```Visual Studio Code``.
+1. Download the zipped files and open them in ```Visual Studio Code```.
 
 2. Click on `Run > Run without Debugging` and interact with the quiz in the terrminal.
 
