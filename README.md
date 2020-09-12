@@ -19,7 +19,7 @@ Using the **Object Oriented Programming (aka OOP)** concept learnt in the module
 
 - once the last question (ie. q5) is answered, the program should show the **answer summary page which shows all answers given by the user who is then allowed to submit the quiz or go back to retry any of the 5 questions**
 
--	Once the quiz is submitted, the **result summary screen will be displayed showing the quiz result and a congratulatory message if the user does well**
+-	Once the quiz is submitted, the **result summary screen will be displayed showing the quiz result and a congratulatory message if the user does well (ie. full marks)**
 
 ### Advance Features
 
@@ -33,5 +33,4 @@ Using the **Object Oriented Programming (aka OOP)** concept learnt in the module
 
 1. Download the zipped files and open them in ```Visual Studio Code```.
 
-2. Click on `Run > Run without Debugging` and interact with the quiz in the terminal.
-
+2. Click on `Run > Run without Debugging` to interact with the quiz within the terminal.
