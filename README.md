@@ -1,6 +1,3 @@
-# Project Background
-One of my modules for Year 1 is **Fundamentals Of Programming (aka FOP)** where I had to **develop a prototype for a quiz application from scratch over 2 months** based on a given problem statement...
-
 ## Problem Statement
 
 You are encouraged to design your own **text-based UI** as a teaching aid for students. The application will display 5 quiz questions one by one, allowing user to enter his/her answers and submit the quiz. It then display the results of the quiz. 
